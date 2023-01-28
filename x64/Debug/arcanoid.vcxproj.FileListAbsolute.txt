@@ -1,0 +1,1 @@
+G:\C++\шаг\arcanoid\x64\Debug\arcanoid.exe

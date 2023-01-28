@@ -1,0 +1,6 @@
+﻿  main.cpp
+G:\C++\шаг\arcanoid\ball.h(20,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\C++\шаг\arcanoid\main.cpp(30,45): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+G:\C++\шаг\arcanoid\main.cpp(30,32): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+G:\C++\шаг\arcanoid\main.cpp(32,27): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  arcanoid.vcxproj -> G:\C++\шаг\arcanoid\x64\Debug\arcanoid.exe
